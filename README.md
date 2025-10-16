@@ -1,6 +1,6 @@
-# Projeto Flashcard
+# 🧠 Projeto Flashcard
 
-## Sobre o projeto
+##  🎯 Sobre o projeto
 Este projeto foi desenvolvido com o objetivo de criar uma ferramente de estudos baseada na técnica de repetição espaçada.
 A ideia é fornecer uma plataforma limpa, intuitiva e sem distrações.
 Seja para estudar para uma prova, aprender algo novo, ou memorizar algo.
