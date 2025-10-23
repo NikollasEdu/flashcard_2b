@@ -17,9 +17,9 @@ criaCartao(
 )
 
 criaCartao(
-  'Categoria',
-  'Pergunta',
-  'Resposta'
+  'Esporte',
+  'Qual a melhor marca de esportivos?',
+  'Nike'
 )
 
 criaCartao(
