@@ -1,35 +1,35 @@
 criaCartao(
-  'Categoria',
-  'Pergunta',
-  'Resposta',
+  'Esporte',
+  'Qual o melhor esporte?',
+  'Futebol'
 )
 
 criaCartao(
   'Categoria',
   'Pergunta',
-  'Resposta',
+  'Resposta'
 )
 
 criaCartao(
   'Categoria',
   'Pergunta',
-  'Resposta',
+  'Resposta'
 )
 
 criaCartao(
   'Categoria',
   'Pergunta',
-  'Resposta',
+  'Resposta'
 )
 
 criaCartao(
   'Categoria',
   'Pergunta',
-  'Resposta',
+  'Resposta'
 )
 
 criaCartao(
   'Categoria',
   'Pergunta',
-  'Resposta',
+  'Resposta'
 )
