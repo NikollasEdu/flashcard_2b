@@ -5,15 +5,15 @@ criaCartao(
 )
 
 criaCartao(
-  'Categoria',
-  'Pergunta',
-  'Resposta'
+  'Filmes',
+  'Qual o melhor filme da Marvel?',
+  'Vingadores: Ultimato'
 )
 
 criaCartao(
-  'Categoria',
-  'Pergunta',
-  'Resposta'
+  'Futebol',
+  'Qual a melhor competição de futebol?',
+  'Copa do Mundo'
 )
 
 criaCartao(
