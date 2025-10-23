@@ -17,19 +17,19 @@ criaCartao(
 )
 
 criaCartao(
-  'Esporte',
+  'Marcas',
   'Qual a melhor marca de esportivos?',
   'Nike'
 )
 
 criaCartao(
-  'Categoria',
-  'Pergunta',
-  'Resposta'
+  'Música',
+  'Qual o melhor cantor pop?',
+  'Michael Jackson'
 )
 
 criaCartao(
-  'Categoria',
-  'Pergunta',
-  'Resposta'
+  'Mundo',
+  'Qual o maior país do mundo?',
+  'Rússia'
 )
